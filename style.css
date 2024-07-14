@@ -1,22 +1,23 @@
-h2 {
-    color: orange;
+h2{
+    color:orange;
 }
 
 body{
-    background-color: #385050;
+    background-color: #305050;
     color: white;
-    font-family: roboto;
+    font-family: Roboto;
     text-align: center;
 }
+
 header{
-    border-bottom: 1px solid grey; 
+    border-bottom: 1px solid grey;
 }
 
 footer{
     border-top: 1px solid grey;
 }
 
-#nome-usuário {
+#nome-usuário{
     font-weight: bold;
 }
 
